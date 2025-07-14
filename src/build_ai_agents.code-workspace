@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../python/ai_studio_python"
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "Google AI Studio"
+	}
+}
